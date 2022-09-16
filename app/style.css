@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Oswald', sans-serif;
+  color: #fff;
+  background: linear-gradient(#ff807e, #fffac8) no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#clock {
+  font-size: 34.7vh;
+  text-shadow: #ff807e 0 0 6.9vh;
+  margin: -11.1vh 0 -8.3vh;
+  width: 83.3vh;
+}
+
+#next {
+  font-weight: 300;
+  font-size: 5.5vh;
+  margin: 0 0 -2.7vh 0.5vh;
+  text-shadow: #ff807e 0 0 1.4vh;
+}
+
+#artist {
+  font-size: 11.1vh;
+  text-shadow: #ff807e88 0 0 1.4vh;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "show-countdown",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vibrations",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindofmatthew/show-countdown.git"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
